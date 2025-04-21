@@ -73,5 +73,6 @@ export MLFLOW_TRACKING_URI=http://<your-ec2-public-dns>:5000/
 import os
 os.environ['MLFLOW_TRACKING_URI'] = "http://<your-ec2-public-dns>:5000/"
 ```
-
+### Flow
+![Image](https://github.com/user-attachments/assets/d7c94683-e63c-46ea-b7fd-0dea8db57a5e)
 ---
